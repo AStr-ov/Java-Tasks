@@ -38,4 +38,3 @@ public class homework3queen {
         }                       
     }   
 }            
-
